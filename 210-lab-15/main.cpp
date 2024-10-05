@@ -5,7 +5,6 @@
 
 using namespace std;
 
-
 class Movie {
 private:
     string title;
